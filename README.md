@@ -1,4 +1,4 @@
-# reverse-number-in-c-
+# reverse-number-in-c++
 #include<iostream>
 using namespace std;
 
